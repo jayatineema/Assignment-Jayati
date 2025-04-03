@@ -1,3 +1,6 @@
 [submodule "TanStack-Assign-Jayati"]
 	path = TanStack-Assign-Jayati
 	url = git@github.com:jayatineema/TanStack-Assign-Jayati.git
+[submodule "interceptor-assign"]
+	path = interceptor-assign
+	url = git@github.com:jayatineema/interceptor-assign.git
