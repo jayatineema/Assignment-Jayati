@@ -4,3 +4,6 @@
 [submodule "interceptor-assign"]
 	path = interceptor-assign
 	url = git@github.com:jayatineema/interceptor-assign.git
+[submodule "debugging-ref---asiig"]
+	path = debugging-ref---asiig
+	url = git@github.com:jayatineema/debugging-ref---asiig.git
