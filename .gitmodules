@@ -7,3 +7,6 @@
 [submodule "debugging-ref---asiig"]
 	path = debugging-ref---asiig
 	url = git@github.com:jayatineema/debugging-ref---asiig.git
+[submodule "React-assign"]
+	path = React-assign
+	url = git@github.com:jayatineema/React-assign.git
